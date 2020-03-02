@@ -4,4 +4,7 @@ For those interested in learning more programming languages this project intents
 # Intended pathway
 1. Hello world, Teaching you how to compile and provide basic output
 2. Calculator, Teaching you to collect user input and conduct math
-3. 
+3. Read/write from file
+4. hashing and encryption
+5. execute linux command
+6. download from website
